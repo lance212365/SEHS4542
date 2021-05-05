@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touchStart">Touch Anywhere To Start</string>
+    <string name="congrats">Congratulation!</string>
+    <string name="app_name">SEHS4542</string>
+    <string name="d1">Easy</string>
+    <string name="d2">Normal</string>
+    <string name="d3">Advanced</string>
+    <string name="d4">Arranged</string>
+    <string name="abg">About Game</string>
+    <string name="aboutText">
+        Match two cards with the same color and numbers.\n
+        Two different color with same numbers cannot be matched.\n\n
+        Example : 9 of Club can match to 9 of Spade but not the red color.\n\n\n
+        Easy: Black or Red Color and 8 numbers of card (Total 16) is Played.\n
+        Normal: Black or Red Color and 12 numbers (Total 24) is Played.\n
+        Advanced: Two Color and  6 numbers (Total 24) is Played.\n
+        Arranged: Two Color and 9 numbers of card (Total 36) is Played.\n
+    </string>
+    <string name="tmk">SEHS4542 Games 2021\nAll right reserved by Lance Chan</string>
+</resources>
